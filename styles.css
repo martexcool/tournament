@@ -1,0 +1,92 @@
+.first {
+   background-color: aliceblue;
+   text-align: center;
+}
+
+body {
+   margin: 0;
+   position: relative;
+   background-color: aquamarine;
+   text-align: center;
+}
+
+h1 {
+   margin-top: 0;
+}
+
+.dream {
+   margin-bottom: 5px;
+}
+
+.ssn {
+   margin-top: 5px;
+   margin-left: 10px;
+}
+
+.sss {
+   margin-left: 100px;
+}
+.second {
+   width: 33%;
+   background-color: aliceblue;
+}
+
+.third {
+   width: 33%;
+   background-color: aliceblue;
+   position: absolute;
+   top: 81px;
+   left: 439px;
+}
+
+.away {
+   margin-top: 0;
+   padding-left: 10px;
+}
+
+.al {
+   margin-bottom: 0;
+   padding-left: 100px;
+}
+
+.fourth {
+   background-color: aliceblue;
+   width: 33%;
+   position: absolute;
+   top: 81px;
+   right: 0px;
+}
+
+.od {
+   margin-top: 0;
+   margin-left: 10px;
+}
+
+.dd {
+   margin-bottom: 0;
+   margin-left: 100px;
+}
+
+.iya {
+   font-size: larger;
+   color: purple;
+}
+
+.sixth {
+   background-color: aliceblue;
+   font-family: cursive, sans-serif, serif;
+   margin-top: 100px;
+}
+
+.baba {
+   padding-top: 100px;
+}
+
+.last {
+   padding-bottom: 30px;
+   margin-bottom: 0;
+}
+
+.log {
+   height: 25px;
+}
